@@ -1,2 +1,4 @@
 rootProject.name = 'java-examples'
 include '01-gradle-fat-jar'
+include '02-testing'
+
